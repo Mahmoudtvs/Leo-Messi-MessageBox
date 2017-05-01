@@ -1,0 +1,8 @@
+c:\users\joker\documents\visual studio 2013\Projects\LeoMessiMessage\LeoMessiMessage\bin\Debug\LeoMessiMessage.dll
+c:\users\joker\documents\visual studio 2013\Projects\LeoMessiMessage\LeoMessiMessage\bin\Debug\LeoMessiMessage.pdb
+c:\users\joker\documents\visual studio 2013\Projects\LeoMessiMessage\LeoMessiMessage\obj\Debug\LeoMessiMessage.csprojResolveAssemblyReference.cache
+c:\users\joker\documents\visual studio 2013\Projects\LeoMessiMessage\LeoMessiMessage\obj\Debug\LeoMessiMessage.FRM_ShowMessage.resources
+c:\users\joker\documents\visual studio 2013\Projects\LeoMessiMessage\LeoMessiMessage\obj\Debug\LeoMessiMessage.Properties.Resources.resources
+c:\users\joker\documents\visual studio 2013\Projects\LeoMessiMessage\LeoMessiMessage\obj\Debug\LeoMessiMessage.csproj.GenerateResource.Cache
+c:\users\joker\documents\visual studio 2013\Projects\LeoMessiMessage\LeoMessiMessage\obj\Debug\LeoMessiMessage.dll
+c:\users\joker\documents\visual studio 2013\Projects\LeoMessiMessage\LeoMessiMessage\obj\Debug\LeoMessiMessage.pdb
